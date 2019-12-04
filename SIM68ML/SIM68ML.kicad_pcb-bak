@@ -11,11 +11,11 @@
 
   (page User 132.004 102.006)
   (title_block
-    (title "SIM68M Based GPS+GNSS Module")
+    (title "SIM68ML Based GPS+GNSS Module")
     (date 2019-10-31)
     (rev 1)
     (company SirBoard)
-    (comment 1 "SIM68M is based on the MT3333 Chipset")
+    (comment 1 "SIM68ML is based on the MT3333 Chipset")
     (comment 2 "Breadboard Friendly Micro GPS+GNSS Module")
   )
 
